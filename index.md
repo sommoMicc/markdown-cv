@@ -5,7 +5,6 @@ title: Michele Tagliabue's CV
 # Michele Tagliabue
 MsC Computer Science, Full Stack Developer, interested in AI and ML .
 
-
 <div id="webaddress">
     <i class="fas fa-phone-square"></i> <a href="tel:+393472586417">+393472586417</a> | 
     <i class="fas fa-envelope-open"></i> <a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a><br>
@@ -14,7 +13,6 @@ MsC Computer Science, Full Stack Developer, interested in AI and ML .
     Nationality: Italian<br>
     Driving License: B2
 </div>
-<br>
 <img src="media/foto_cv.jpg" id="avatar">
 
 ## About me

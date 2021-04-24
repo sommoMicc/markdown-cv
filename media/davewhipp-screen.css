@@ -187,8 +187,12 @@ strong {
 	display: none;
 }
 
+
 #avatar {
-	max-width: 30%;
+	max-width: 150px;
+    position: absolute;
+    left: -176px;
+    top: -140px
 }
 
 
