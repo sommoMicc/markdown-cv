@@ -28,10 +28,6 @@ I have the passion for device modding: I constantly change ROMs on the phone and
 
 I like to practice sports <i class="fas fa-dumbbell"></i> to keep myself fit and healthy.
 
-#### Personal information
-
-
-
 ## Currently
 
 Working as Java Developer and AI specialist @ Ifin Sistemi s.r.l.
