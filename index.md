@@ -18,11 +18,11 @@ MsC Computer Science, Full Stack Developer, interested in AI and ML .
 ## About me
 I like to call myself a __geek__. 
 
-Regarding information technology, I love to try always new things. 
+Regarding information technology <i class="fas fa-tv"></i>, I love to try always new things. 
 
 I am passionate about web and mobile development, but recently I have also approached the field of artificial intelligence / machine learning.
 
-As a freelance developer I created a few Android and Flutter <i class="fas fa-mobile-alt"></i>apps, even just to try some new technologies. 
+As a freelance developer I created a few Android and Flutter <i class="fas fa-mobile-alt"></i> apps, even just to try some new technologies. 
 
 I have the passion for device modding: I constantly change ROMs on the phone and system operating on the computer. Some of my projects (including drafts) are available on my [GitHub](https://github.com/sommoMicc).
 
@@ -42,7 +42,7 @@ Full Stack development:
 Others:
 * Python with keras/tensorflow for ML
 * Java for both desktop and Android
-
+* MySQL/MariaDB, MongoDB as DBMS
 
 ### Interests
 
@@ -56,7 +56,7 @@ __MsC in Computer Science @ University of Padua__
 
 Final score: 108/110.
 
-Thesis: "An Innovative Approach to NLP Chatbot Training" (wrote in Italian). I'm specialized in Internet Technologies and Artificial Intelligence, and I've attended the following courses:
+Thesis: _"An Innovative Approach to NLP Chatbot Training"_ (wrote in Italian). I'm specialized in Internet Technologies and Artificial Intelligence, and I've attended the following courses:
 
 * Computability
 * Advanced Algorithms
