@@ -73,6 +73,7 @@ Thesis: _"An Innovative Approach to NLP Chatbot Training"_ (wrote in Italian). I
 
 The PDF version of my thesis is available [here](media/Tesi_Magistrale_con_ringraziamenti.pdf).
 
+\
 __Additional courses__
 
 `February 2021`
@@ -84,7 +85,7 @@ __Additional courses__
 `May 2020`
 ['The Complete 2021 Flutter Bootcamp with Dart' @ appbrewery.com](https://www.appbrewery.co/courses/548873/)
 
-
+\
 `September 2015 - September 2018`
 __BsC in Computer Science @ University of Padua__ 
 
@@ -94,6 +95,7 @@ Thesis: "Analysis, improvement and extension of the functionalities of a cruise 
 
 The PDF version of my thesis is available [here](media/tesi.pdf).
 
+\
 `September 2010 - July 2015`
 __ITE P.F.Calvi - Accountancy with specialization in Enterprise Computer Programming__
 
@@ -103,6 +105,7 @@ Final Score: 100/100
 
 ## Experience
 
+\
 `February 2021 - current`
 **Java and AI developer** @ *Ifin Sistemi s.r.l.*
 
@@ -110,6 +113,7 @@ My tasks right now are:
 * To develop tests for a Java EE8 application written with Vaadin;
 * To develop, improve and integrate an OCR document recognizer.
 
+\
 `September 2020 - December 2020`
 **Full stack developer** @ *Primo Round s.r.l.*
 
@@ -124,6 +128,7 @@ The following technologies were involved:
 
 During this experience I had the opportunity to try NestJS and, more importantly, to understand how a chatbots and serverless services (like AWS Lambda) work. 
 
+\
 `July 2019 - December 2019`
 Review of the paper **A semi-partitioned model for Mixed Criticality Systems (Xu, Burns)**
 
@@ -135,6 +140,7 @@ Skills acquired:
 * Understading of how migrating a process works;
 * Understading of linux scheduler C libraries.
 
+\
 `January 2018 - August 2020`
 **Instant Developer programmer and Artificial Intelligence Researcher** @ *Tepui s.r.l.*
 
@@ -147,6 +153,7 @@ Skills acquired:
 * Understanding of how genetic algorithms work;
 * Understanding of FJSP scheduling problem.
  
+ \
 `June 2018 - October 2018`
 **Full stack developer** @ *WebPD s.r.l.*
 
@@ -161,6 +168,7 @@ Tecnologies involved:
 * HTML5/CSS3/jQuery + Boostrap;
 * Microsoft SQL Server.
 
+\
 `November 2017 - June 2018`
 **Backend developer** @ *TuTourSelf s.r.l.*
 
@@ -173,6 +181,7 @@ Tecnologies involved:
 * MongoDB
 * JsUnit and Mockgoose
 
+\
 `March 2015 - October 2020`
 **Software Developer** @ *Onda Selvaggia di Sonia Scaioli*
 
@@ -189,6 +198,7 @@ Technologies invoved:
 - Frontend: HTML5/CSS3 (boostrap 3)/Javascript (jQuery);
 - Backend: PHP/Java/NodeJS/MySQL
 
+\
 `July 2015 - October 2020`
 **Web Developer and Webmaster** @ *Rossipiero.com*
 
