@@ -5,7 +5,7 @@ title: Michele Tagliabue's CV
 # Michele Tagliabue
 MsC Computer Science, Full Stack Developer, interested in AI and ML .
 
-![Profile Picture](media/foto_cv.jpg)
+<img src="media/foto_cv.jpg" id="avatar">
 
 <div id="webaddress">
 <a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a>
