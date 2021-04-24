@@ -26,15 +26,28 @@ Others:
 - Java for both desktop and Android
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Web and mobile development, algorithms, AI/ML and, most importantly, learning something new everyday!
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2018- April 2021`
+__MsC in Computer Science @ University of Padua__ Final score: 108/110. Thesis: "An Innovative Approach to NLP Chatbot Training" (wrote in Italian). I'm specialized in Internet Technologies and Artificial Intelligence, and I've attended the following courses:
+  - Computability
+  -	Advanced Algorithms
+  -	Real Time System
+  -	Web Information Management
+  -	Wireless Networks
+  -	Mobile programming and Multimedia
+  -	Economics of innovation
+  -	Machine Learning
+  -	Data Mining
+  -	Big Data Computing
+  -	Deep Learning
+ -	Process Mining
+
 
 `June 1661 - now`
 __Trinity College, Cambridge__
