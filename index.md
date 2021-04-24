@@ -129,37 +129,47 @@ Tecnologies involved:
 * HTML5/CSS3/jQuery + Boostrap;
 * Microsoft SQL Server.
 
-## Publications
+`November 2017 - June 2018`
+**Backend developer** @ *TuTourSelf s.r.l.*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Development of an application using NodeJS, MongoDB and React.js as a academic project during my Bachelor's
+degree in Computer Science. 
+I was assigned to a group of 7 person with the task to develop the backend and also writing unit tests with JsUnit and Mockgoose.
 
-### Journals
+Tecnologies involved:
+* Node.js with Express.js
+* MongoDB
+* JsUnit and Mockgoose
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`March 2015 - October 2020`
+**Software Developer** @ *Onda Selvaggia di Sonia Scaioli*
+Developing of a digital registration platform fo Onda Selvaggia, available at [iscrizione.ondaselvaggia.com](https://iscrizione.ondaselvaggia.com).
 
-`1669`
-Lectiones opticæ.
+Features:
+- Customer management;
+- Appointment/calendar management;
+- Tracking of hours worked by employees;
+- Android application that allows customers to register directly from the secreteriat;
+- Collection of clients feedback through self-generated satisfaction questionnaire.
 
-etc. etc. etc.
+Technologies invoved:
+- Frontend: HTML5/CSS3 (boostrap 3)/Javascript (jQuery);
+- Backend: PHP/Java/NodeJS/MySQL
 
-### Patents
+`July 2015 - October 2020`
+**Web Developer and Webmaster** @ *Rossipiero.com*
+Designing and development of website [rossipiero.com](http://www.rossipiero.com) using PHP+MySQL+jQuery+Bootstrap.
+Designing and development of a CRM for contacts and invoice managment using the same technologies
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Others
+`February 2021`
+Completed the course ['Practical Java Unit Testing with JUnit 5' @ Udemy.com](https://www.udemy.com/course/junit5-for-beginners/)
 
+`February 2021`
+Completed the course ['JAVA ENTERPRISE EDITION 8 FOR BEGINNERS' @ Udemy.com](https://www.udemy.com/course/java-enterprise-edition-8/)
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`May 2020`
+Completed the course ['THE COMPLETE 2021 FLUTTER DEVELOPMENT BOOTCAMP WITH DART' @ appbrewery.com](https://www.appbrewery.co/courses/548873/)
 
 
 <!-- ### Footer
