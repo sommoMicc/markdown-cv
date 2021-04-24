@@ -204,7 +204,7 @@ Technologies invoved:
 Designing and development of website [rossipiero.com](http://www.rossipiero.com) using PHP+MySQL+jQuery+Bootstrap.
 Designing and development of a CRM for contacts and invoice managment using the same technologies
 
-## Personal/Side projects
+## Side projects
 
 * [*FoglioOre*](https://github.com/sommoMicc/FoglioOre), a simple mobile application written entirely in Flutter to generate a monthly time sheet for my mother;
 * [*sweet-alert-dialog fork*](https://github.com/sommoMicc/sweet-alert-dialog), a fork of the popular *Sweet Alert Dialog* implementation for Android (written in Java) 
