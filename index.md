@@ -61,7 +61,6 @@ Final score: 99/110.
 
 Thesis: "Analysis, improvement and extension of the functionalities of a cruise Booking Engine"
 
-- Sizar
 
 `September 2010 - July 2015`
 __ITE P.F.Calvi - Accountancy with specialization in Enterprise Computer Programming__
@@ -82,7 +81,7 @@ My tasks right now are:
 `September 2020 - December 2020`
 **Full stack developer** @ *Primo Round s.r.l.*
 
-Writing of my master thesis "An Innovative Approach to NLP Chatbot Training". 
+Here I worked on my master thesis "An Innovative Approach to NLP Chatbot Training". 
 I developed a web application with Angular, Node.js (NestJS) and MongoDB that helps in generating and deploying a chatbot on the Amazon Lex platform.
 
 The following technologies were involved:
@@ -92,6 +91,43 @@ The following technologies were involved:
 * Node.js as AWS Lambda environment.
 
 During this experience I had the opportunity to try NestJS and, more importantly, to understand how a chatbots and serverless services (like AWS Lambda) work.
+
+`July 2019 - December 2019`
+Review of the paper **A semi-partitioned model for Mixed Criticality Systems (Xu, Burns)**
+
+As an assignment for the university course *Real Time Systems* I had to review the cited paper and to replicate some of the experiments that they presented, in order to verify if their claims were justified.
+
+In particular, beside the written review, I had to measure the cost of migrating a process from a CPU to another. Regarding this, I implemented a simple benchmark as an overlay for *Mininmal Linux* written in C (using Linux kernel libraries).
+
+Skills acquired:
+* Understading of how migrating a process works;
+* Understading of linux scheduler C libraries.
+
+`January 2018 - August 2020`
+**Instant Developer programmer and Artificial Intelligence Researcher** @ *Tepui s.r.l.*
+
+One of my task was to develop applications using the Instant Developer platform, which involved using also Microsoft SQL Server and Microsoft IIS. I was also assigned with the responsability of interact with a customer.
+
+Another task I had to do was studying and developing a scheduler (using Python) that helped in the process of allocating jobs to mechanics. The problem was essentially an instance of *FJSP* (*Flexible Job-Shop Problem*) and was solved with a genetic algorithm.
+
+Skills acquired:
+* Interaction with customers;
+* Understanding of how genetic algorithms work;
+* Understanding of FJSP scheduling problem.
+ 
+`June 2018 - October 2018`
+**Full stack developer** @ *WebPD s.r.l.*
+
+I worked on my BsC thesis "Analysis, improvement and extension of the functionalities of a cruise Booking Engine", whose subject was the website [crociereregalo.it](https://www.crociereregalo.it). 
+
+First of all, I had to optimize the execution time of some queries on a Microsoft SQL Server database using SQL Server profiling tools.
+Moreover, I had to integrate to an existing cruise booking engine three new webservices of cruise companies (Royal Caribbean, Celebrity, Azamara).
+In the end I also tweaked a bit the UI of the website using CSS3 and Boostrap.
+
+Tecnologies involved:
+* PHP with CodeIgniter;
+* HTML5/CSS3/jQuery + Boostrap;
+* Microsoft SQL Server.
 
 ## Publications
 
