@@ -53,6 +53,7 @@ Thesis: "An Innovative Approach to NLP Chatbot Training" (wrote in Italian). I'm
 * Deep Learning
 * Process Mining
 
+__Additional courses__
 `February 2021`
 ['Practical Java Unit Testing with JUnit 5' @ Udemy.com](https://www.udemy.com/course/junit5-for-beginners/)
 
