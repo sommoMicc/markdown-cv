@@ -105,7 +105,6 @@ Final Score: 100/100
 
 ## Experience
 
-\
 `February 2021 - current`
 **Java and AI developer** @ *Ifin Sistemi s.r.l.*
 
