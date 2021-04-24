@@ -5,12 +5,28 @@ title: Michele Tagliabue's CV
 # Michele Tagliabue
 MsC Computer Science, Full Stack Developer, interested in AI and ML .
 
-<img src="media/foto_cv.jpg" id="avatar">
 
 <div id="webaddress">
-<a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a>
-| <a href="https://www.linkedin.com/in/michele-tagliabue-519482110">My Linkedin Page</a>
+    <i class="fas fa-envelope-open"></i>
+    <a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a> | 
+    <i class="fas fa-phone-square"></i> <a href="tel:+393472586417">+393472586417</a> <br>
+    <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/michele-tagliabue-519482110">My Linkedin Page</a>
 </div>
+<br>
+<img src="media/foto_cv.jpg" id="avatar">
+
+## About me
+I like to call myself a __geek__. 
+
+Regarding information technology, I love to try always new things. 
+
+I am passionate about web and mobile development, but recently I have also approached the field of artificial intelligence / machine learning.
+
+As a freelance developer I created a few Android and Flutter <i class="fas fa-mobile-alt"></i>apps, even just to try some new technologies. 
+
+I have the passion for device modding: I constantly change ROMs on the phone and system operating on the computer. Some of my projects (including drafts) are available on my [GitHub](https://github.com/sommoMicc).
+
+I like to practice sports <i class="fas fa-dumbbell"></i> to keep myself fit and healthy.
 
 
 ## Currently
