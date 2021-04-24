@@ -73,14 +73,14 @@ Final Score: 100/100
 ## Experience
 
 `February 2021 - current`
-Java and AI developer @ *Ifin Sistemi s.r.l.*
+**Java and AI developer** @ *Ifin Sistemi s.r.l.*
 
 My tasks right now are:
 * To develop tests for a Java EE8 application written with Vaadin;
 * To develop, improve and integrate an OCR document recognizer.
 
 `September 2020 - December 2020`
-Full stack developer @ *Primo Round s.r.l.*
+**Full stack developer** @ *Primo Round s.r.l.*
 
 
 ## Publications
