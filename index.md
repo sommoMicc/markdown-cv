@@ -18,12 +18,12 @@ Working as Java Developer and AI specialist @ Ifin Sistemi s.r.l.
 ### Specialized in
 
 Full Stack development:
-- PHP, Node.js as backend technologies
-- Angular, jQuery and Flutter as frontend
+* PHP, Node.js as backend technologies
+* Angular, jQuery and Flutter as frontend
   
 Others:
-- Python with keras/tensorflow for ML
-- Java for both desktop and Android
+* Python with keras/tensorflow for ML
+* Java for both desktop and Android
 
 
 ### Interests
@@ -34,23 +34,28 @@ Web and mobile development, algorithms, AI/ML and, most importantly, learning so
 ## Education
 
 `September 2018- April 2021`
-__MsC in Computer Science @ University of Padua__ Final score: 108/110. Thesis: "An Innovative Approach to NLP Chatbot Training" (wrote in Italian). I'm specialized in Internet Technologies and Artificial Intelligence, and I've attended the following courses:
-  - Computability
-  -	Advanced Algorithms
-  -	Real Time System
-  -	Web Information Management
-  -	Wireless Networks
-  -	Mobile programming and Multimedia
-  -	Economics of innovation
-  -	Machine Learning
-  -	Data Mining
-  -	Big Data Computing
-  -	Deep Learning
- -	Process Mining
+__MsC in Computer Science @ University of Padua__ 
+
+Final score: 108/110.
+
+Thesis: "An Innovative Approach to NLP Chatbot Training" (wrote in Italian). I'm specialized in Internet Technologies and Artificial Intelligence, and I've attended the following courses:
+
+* Computability
+* Advanced Algorithms
+* Real Time System
+* Web Information Management
+* Wireless Networks
+* Mobile programming and Multimedia
+* Economics of innovation
+* Machine Learning
+* Data Mining
+* Big Data Computing
+* Deep Learning
+* Process Mining
 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2015 - September 2018`
+__BsC in Computer Science @ University of Padua__ Final score: 99/110. Thesis: "Analysis, improvement and extension of the functionalities of a cruise Booking Engine"
 
 - Sizar
 
