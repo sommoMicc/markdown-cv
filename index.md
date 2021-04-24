@@ -7,10 +7,12 @@ MsC Computer Science, Full Stack Developer, interested in AI and ML .
 
 
 <div id="webaddress">
-    <i class="fas fa-envelope-open"></i>
-    <a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a> | 
-    <i class="fas fa-phone-square"></i> <a href="tel:+393472586417">+393472586417</a> <br>
-    <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/michele-tagliabue-519482110">My Linkedin Page</a>
+    <i class="fas fa-phone-square"></i> <a href="tel:+393472586417">+393472586417</a> | 
+    <i class="fas fa-envelope-open"></i> <a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a><br>
+    <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/michele-tagliabue-519482110">My Linkedin Page</a><br>
+    <i class="fas fa-map-marked"></i> Via Marco Lando 6, 35133 Padova (PD) Italy<br>
+    Nationality: Italian<br>
+    Driving License: B2
 </div>
 <br>
 <img src="media/foto_cv.jpg" id="avatar">
@@ -29,11 +31,7 @@ I have the passion for device modding: I constantly change ROMs on the phone and
 I like to practice sports <i class="fas fa-dumbbell"></i> to keep myself fit and healthy.
 
 #### Personal information
-<i class="fas fa-phone-square"></i> <a href="tel:+393472586417">+393472586417</a><br>
-<a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a><br>
-<i class="fas fa-map-marked"></i> Via Marco Lando 6, 35133 Padova (PD) Italy<br>
-Nationality: Italian<br>
-Driving License: B2
+
 
 
 ## Currently
