@@ -53,6 +53,15 @@ Thesis: "An Innovative Approach to NLP Chatbot Training" (wrote in Italian). I'm
 * Deep Learning
 * Process Mining
 
+`February 2021`
+['Practical Java Unit Testing with JUnit 5' @ Udemy.com](https://www.udemy.com/course/junit5-for-beginners/)
+
+`February 2021`
+['Java Enterprise Edition For Beginners' @ Udemy.com](https://www.udemy.com/course/java-enterprise-edition-8/)
+
+`May 2020`
+['The Complete 2021 Flutter Bootcamp with Dart' @ appbrewery.com](https://www.appbrewery.co/courses/548873/)
+
 
 `September 2015 - September 2018`
 __BsC in Computer Science @ University of Padua__ 
@@ -161,15 +170,6 @@ Technologies invoved:
 Designing and development of website [rossipiero.com](http://www.rossipiero.com) using PHP+MySQL+jQuery+Bootstrap.
 Designing and development of a CRM for contacts and invoice managment using the same technologies
 
-## Others
-`February 2021`
-Completed the course ['Practical Java Unit Testing with JUnit 5' @ Udemy.com](https://www.udemy.com/course/junit5-for-beginners/)
-
-`February 2021`
-Completed the course ['JAVA ENTERPRISE EDITION 8 FOR BEGINNERS' @ Udemy.com](https://www.udemy.com/course/java-enterprise-edition-8/)
-
-`May 2020`
-Completed the course ['THE COMPLETE 2021 FLUTTER DEVELOPMENT BOOTCAMP WITH DART' @ appbrewery.com](https://www.appbrewery.co/courses/548873/)
 
 
 <!-- ### Footer
