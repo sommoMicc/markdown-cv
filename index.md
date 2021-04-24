@@ -17,7 +17,13 @@ Working as Java Developer and AI specialist @ Ifin Sistemi s.r.l.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Full Stack development:
+- PHP, Node.js as backend technologies
+- Angular, jQuery and Flutter as frontend
+  
+Others:
+- Python with keras/tensorflow for ML
+- Java for both desktop and Android
 
 
 ### Research interests
