@@ -94,14 +94,6 @@ Thesis: "Analysis, improvement and extension of the functionalities of a cruise 
 
 The PDF version of my thesis is available [here](media/tesi.pdf).
 
-\
-`September 2010 - July 2015`
-__ITE P.F.Calvi - Accountancy with specialization in Enterprise Computer Programming__
-
-Final Score: 100/100
-
-
-
 ## Experience
 
 `February 2021 - current`
