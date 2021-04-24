@@ -28,6 +28,13 @@ I have the passion for device modding: I constantly change ROMs on the phone and
 
 I like to practice sports <i class="fas fa-dumbbell"></i> to keep myself fit and healthy.
 
+#### Personal information
+<i class="fas fa-phone-square"></i> <a href="tel:+393472586417">+393472586417</a><br>
+<a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a><br>
+<i class="fas fa-map-marked"></i> Via Marco Lando 6, 35133 Padova (PD) Italy<br>
+Nationality: Italian<br>
+Driving License: B2
+
 
 ## Currently
 
@@ -60,7 +67,7 @@ Thesis: _"An Innovative Approach to NLP Chatbot Training"_ (wrote in Italian). I
 
 * Computability
 * Advanced Algorithms
-* Real Time System
+* Real Time Systems
 * Web Information Management
 * Wireless Networks
 * Mobile programming and Multimedia
