@@ -55,24 +55,32 @@ Thesis: "An Innovative Approach to NLP Chatbot Training" (wrote in Italian). I'm
 
 
 `September 2015 - September 2018`
-__BsC in Computer Science @ University of Padua__ Final score: 99/110. Thesis: "Analysis, improvement and extension of the functionalities of a cruise Booking Engine"
+__BsC in Computer Science @ University of Padua__ 
+
+Final score: 99/110.
+
+Thesis: "Analysis, improvement and extension of the functionalities of a cruise Booking Engine"
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`September 2010 - July 2015`
+__ITE P.F.Calvi - Accountancy with specialization in Enterprise Computer Programming__
 
-- Fellow
+Final Score: 100/100
 
 
 
-## Awards
+## Experience
 
-`2012`
-President, *Royal Society*, London, UK
+`February 2021 - current`
+Java and AI developer @ *Ifin Sistemi s.r.l.*
 
-Associate, *French Academy of Science*, Paris, France
+My tasks right now are:
+* To develop tests for a Java EE8 application written with Vaadin;
+* To develop, improve and integrate an OCR document recognizer.
 
+`September 2020 - December 2020`
+Full stack developer @ *Primo Round s.r.l.*
 
 
 ## Publications
