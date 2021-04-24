@@ -82,6 +82,16 @@ My tasks right now are:
 `September 2020 - December 2020`
 **Full stack developer** @ *Primo Round s.r.l.*
 
+Writing of my master thesis "An Innovative Approach to NLP Chatbot Training". 
+I developed a web application with Angular, Node.js (NestJS) and MongoDB that helps in generating and deploying a chatbot on the Amazon Lex platform.
+
+The following technologies were involved:
+* Angular 10 as Frontend SPA framework;
+* Node.js with NestJS as Backend framework;
+* MongoDB as DBMS;
+* Node.js as AWS Lambda environment.
+
+During this experience I had the opportunity to try NestJS and, more importantly, to understand how a chatbots and serverless services (like AWS Lambda) work.
 
 ## Publications
 
