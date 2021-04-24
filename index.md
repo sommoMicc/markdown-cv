@@ -6,8 +6,8 @@ title: Michele Tagliabue's CV
 MsC Computer Science, Full Stack Developer, interested in AI and ML .
 
 <div id="webaddress">
-<a href="mailto:mikitg.michele@gmail.com">mikitg.michele@gmail.com</a>
-| <a href="https://www.linkedin.com/in/michele-tagliabue-519482110">My linkedin page</a>
+<a href="mailto:mikitg.michele@gmail.com">:email: mikitg.michele@gmail.com</a>
+| <a href="https://www.linkedin.com/in/michele-tagliabue-519482110">My Linkedin Page</a>
 </div>
 
 
@@ -54,6 +54,7 @@ Thesis: "An Innovative Approach to NLP Chatbot Training" (wrote in Italian). I'm
 * Process Mining
 
 __Additional courses__
+
 `February 2021`
 ['Practical Java Unit Testing with JUnit 5' @ Udemy.com](https://www.udemy.com/course/junit5-for-beginners/)
 
