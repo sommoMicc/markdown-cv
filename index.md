@@ -98,6 +98,7 @@ The PDF version of my thesis is available [here](media/tesi.pdf).
 
 `June 2021 - current`
 **Software Developer** @ *UNOX s.p.a.*
+
 I'm part of the Digital Experience devloper team, which is in charge to develop mostly the GUI of the UNOX ovens.
 I'm using React (TypeScript) + Redux (with Redux Toolkit) and Node.js.
 
