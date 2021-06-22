@@ -30,13 +30,13 @@ I like to practice sports <i class="fas fa-dumbbell"></i> to keep myself fit and
 
 ## Currently
 
-Working as Java Developer and AI specialist @ Ifin Sistemi s.r.l.
+Working as Software Developer @ UNOX s.p.a.
 
 ### Specialized in
 
 Full Stack development:
 * PHP, Node.js as backend technologies
-* Angular, jQuery and Flutter as frontend
+* Angular, React + Redux, jQuery and Flutter as frontend
   
 Others:
 * Python with keras/tensorflow for ML
@@ -96,10 +96,16 @@ The PDF version of my thesis is available [here](media/tesi.pdf).
 
 ## Experience
 
-`February 2021 - current`
+`June 2021 - current`
+**Software Developer** @ *UNOX s.p.a.*
+I'm part of the Digital Experience devloper team, which is in charge to develop mostly the GUI of the UNOX ovens.
+I'm using React (TypeScript) + Redux (with Redux Toolkit) and Node.js.
+
+\
+`February 2021 - June 2021`
 **Java and AI developer** @ *Ifin Sistemi s.r.l.*
 
-My tasks right now are:
+My tasks right were:
 * To develop tests for a Java EE8 application written with Vaadin;
 * To develop, improve and integrate an OCR document recognizer.
 
