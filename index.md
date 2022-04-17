@@ -30,7 +30,7 @@ I like to practice sports <i class="fas fa-dumbbell"></i> to keep myself fit and
 
 ## Currently
 
-Working as Software Developer @ UNOX s.p.a.
+Working as Full Stack Web Developer @ UNOX s.p.a.
 
 ### Specialized in
 
@@ -99,8 +99,10 @@ The PDF version of my thesis is available [here](media/tesi.pdf).
 `June 2021 - current`
 **Software Developer** @ *UNOX s.p.a.*
 
-I'm part of the Digital Experience devloper team, which is in charge to develop mostly the GUI of the UNOX ovens.
-I'm using React (TypeScript) + Redux (with Redux Toolkit) and Node.js.
+I'm part of the Digital Experience devloper team, which is in charge to develop mostly the GUI of the UNOX products.
+I'm specialized in:
+- React (TypeScript) + Redux (with Redux Toolkit) as frontend SPA frameworks
+- Node.js + express.js, Next.js, AWS Lambda (serverless) as backend technologies.
 
 \
 `February 2021 - June 2021`
