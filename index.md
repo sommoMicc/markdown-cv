@@ -92,6 +92,32 @@ The following technologies were involved:
 During this experience I had the opportunity to try NestJS and, more importantly, to understand how a chatbots and serverless services (like AWS Lambda) work.
 
 \
+`March 2015 - October 2020`
+**Full Stack Developer** @ _Onda Selvaggia di Sonia Scaioli_
+
+Developing of a digital registration platform fo Onda Selvaggia, available at [iscrizione.ondaselvaggia.com](https://iscrizione.ondaselvaggia.com).
+
+Features:
+
+- Customer management;
+- Appointment/calendar management;
+- Tracking of hours worked by employees;
+- Android application that allows customers to register directly from the secreteriat;
+- Collection of clients feedback through self-generated satisfaction questionnaire.
+
+Technologies invoved:
+
+- Frontend: HTML5/CSS3 (boostrap 3)/Javascript (jQuery);
+- Backend: PHP/Java/NodeJS/MySQL
+
+\
+`July 2015 - October 2020`
+**Web Developer and Webmaster** @ _Rossipiero.com_
+
+Designing and development of website [rossipiero.com](http://www.rossipiero.com) using PHP+MySQL+jQuery+Bootstrap.
+Designing and development of a CRM for contacts and invoice managment using the same technologies
+
+\
 `July 2019 - December 2019`
 Review of the paper **A semi-partitioned model for Mixed Criticality Systems (Xu, Burns)**
 
@@ -147,32 +173,6 @@ Tecnologies involved:
 - Node.js with Express.js
 - MongoDB
 - JsUnit and Mockgoose
-
-\
-`March 2015 - October 2020`
-**Software Developer** @ _Onda Selvaggia di Sonia Scaioli_
-
-Developing of a digital registration platform fo Onda Selvaggia, available at [iscrizione.ondaselvaggia.com](https://iscrizione.ondaselvaggia.com).
-
-Features:
-
-- Customer management;
-- Appointment/calendar management;
-- Tracking of hours worked by employees;
-- Android application that allows customers to register directly from the secreteriat;
-- Collection of clients feedback through self-generated satisfaction questionnaire.
-
-Technologies invoved:
-
-- Frontend: HTML5/CSS3 (boostrap 3)/Javascript (jQuery);
-- Backend: PHP/Java/NodeJS/MySQL
-
-\
-`July 2015 - October 2020`
-**Web Developer and Webmaster** @ _Rossipiero.com_
-
-Designing and development of website [rossipiero.com](http://www.rossipiero.com) using PHP+MySQL+jQuery+Bootstrap.
-Designing and development of a CRM for contacts and invoice managment using the same technologies
 
 ## Education
 
