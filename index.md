@@ -29,7 +29,7 @@ As a freelance developer I created a few Android and Flutter <i class="fas fa-mo
 
 I have the passion for device modding: I constantly change ROMs on the phone and system operating on the computer. Some of my projects (including drafts) are available on my [GitHub](https://github.com/sommoMicc).
 
-I like to practice outdoor sports <i class="fas fa-dumbbell"></i> like cycling, running and kayaking to keep myself fit and healthy.
+I like to practice outdoor sports like cycling <i class="fas fa-biking"></i>, running <i class="fas fa-running"></i> and kayaking to keep myself fit and healthy.
 
 ## Currently
 
@@ -68,7 +68,7 @@ I'm part of the Digital Experience devloper team, which is in charge to develop 
 As developer, I always have to work together with UI/UX designer using Figma
 
 \
-`February 2021 - June 2021`
+`January 2021 - June 2021`
 **Java and AI developer** @ _Ifin Sistemi s.r.l._
 
 My tasks right were:
@@ -92,7 +92,7 @@ The following technologies were involved:
 During this experience I had the opportunity to try NestJS and, more importantly, to understand how a chatbots and serverless services (like AWS Lambda) work.
 
 \
-`March 2015 - October 2020`
+`March 2015 - September 2020`
 **Full Stack Developer** @ _Onda Selvaggia di Sonia Scaioli_
 
 Developing of a digital registration platform fo Onda Selvaggia, available at [iscrizione.ondaselvaggia.com](https://iscrizione.ondaselvaggia.com).
