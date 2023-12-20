@@ -59,13 +59,20 @@ Web and mobile development, algorithms, AI/ML and, most importantly, learning so
 `June 2021 - current`
 **Software Developer** @ _UNOX s.p.a._
 
-I'm part of the Digital Experience devloper team, which is in charge to develop all the applications and website of UNOX ecosystem. More in depth, I'm specialized in:
+UNOX is a company that specializes in the production of professional ovens. The company is a leader in the industry and offers a wide range of ovens for restaurants, gastronomy, pastry shops, bars and cafes, fast food, cooking centers, gastronomy, and supermarkets.
 
-- React (TypeScript) + Redux (with Redux Toolkit) as frontend SPA frameworks
-- Node.js + express.js, Next.js, AWS Lambda (serverless) as backend technologies.
-- React Native for cross-platform app development
+The company is AWS patner, and I'm part of the Digital Experience team in charge to develop and mantain all the applications and website of UNOX ecosystem.
 
-As developer, I always have to work together with UI/UX designer using Figma
+A typical day invoves the use of:
+
+- React and React Native, with TypeScript
+- Next.js, with all possible optimizations (such as SSR)
+- Node.js + Express
+- AWS services like S3, DynamoDB, Lambda
+- RDBMS such as Postgres, with an eye on query performance optimization
+- APM and monitoring tools like AWS CloudWatch and Sentry
+
+As developer, I always have to work together with UI/UX designer using Figma. Also, due to the nature of the job, I often have to get in touch with customers and stakeholders in order to collect feedbacks and ideas from them.
 
 \
 `January 2021 - June 2021`
@@ -118,19 +125,6 @@ Designing and development of website [rossipiero.com](http://www.rossipiero.com)
 Designing and development of a CRM for contacts and invoice managment using the same technologies
 
 \
-`July 2019 - December 2019`
-Review of the paper **A semi-partitioned model for Mixed Criticality Systems (Xu, Burns)**
-
-As an assignment for the university course _Real Time Systems_ I had to review the cited paper and to replicate some of the experiments that they presented, in order to verify if their claims were justified.
-
-In particular, beside the [written review](media/RTS_project.pdf), I had to measure the cost of migrating a process from a CPU to another. Regarding this, I implemented a simple benchmark as an overlay for _Mininmal Linux_ written in C (using Linux kernel libraries). The code is available on [this GitHub repository](https://github.com/sommoMicc/minimal), created starting from a fork of _Minimal Linux Live_.
-
-Skills acquired:
-
-- Understading of how migrating a process works;
-- Understading of linux scheduler C libraries.
-
-\
 `January 2018 - August 2020`
 **Instant Developer programmer and Artificial Intelligence Researcher** @ _Tepui s.r.l._
 
@@ -159,20 +153,6 @@ Tecnologies involved:
 - PHP with CodeIgniter;
 - HTML5/CSS3/jQuery + Boostrap;
 - Microsoft SQL Server.
-
-\
-`November 2017 - June 2018`
-**Backend developer** @ _TuTourSelf s.r.l._
-
-Development of an application using NodeJS, MongoDB and React.js as a academic project during my Bachelor's
-degree in Computer Science.
-I was assigned to a group of 7 person with the task to develop the backend and also writing unit tests with JsUnit and Mockgoose.
-
-Tecnologies involved:
-
-- Node.js with Express.js
-- MongoDB
-- JsUnit and Mockgoose
 
 ## Education
 
