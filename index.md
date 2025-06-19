@@ -33,22 +33,14 @@ I like to practice outdoor sports like cycling <i class="fas fa-biking"></i>, ru
 
 ## Currently
 
-Working as Full Stack Web Developer @ UNOX s.p.a.
+Working as Fullstack Developer @ Infinitas Learning Ltd.
 
 ### Specialized in
 
-Full Stack development, JavaScript/TypeScript focused:
+Full Stack development, JavaScript/TypeScript focused on:
 
 - Node.js as main backend tool
 - React.js, React Native as frontend stack
-- AWS services like Lambda, S3, Lex, DynamoDB
-
-Others:
-
-- A little bit of Flutter and Java for Android development
-- Angular and JQuery for web development
-- Python with keras/tensorflow for ML
-- MySQL/MariaDB, MongoDB as DBMS
 
 ### Interests
 
@@ -56,10 +48,23 @@ Web and mobile development, algorithms, AI/ML and, most importantly, learning so
 
 ## Experience
 
-`June 2021 - current`
+`May 2024 - current`
+**Fullstack Developer** @ _Infinitas Learning Ltd._
+
+Infinitas Learning is a group of publishers that operates in the education market in various countries in Europe (like the Netherlands, Belgium, Sweden, Portugal, Poland). 
+
+I am part of ILPT, Infinitas Learning Product and Technology, a remote-first company which builds digital tools for teachers, learners and publishers. I mainly use React and Node, but I did a side project with Rust also.
+
+Working in a collaborative environment with multiple cross-functional teams including designers, product managers, business representatives and other developers.
+
+My key contributions were mainly in improving the ebook-reader functionality of their platform, including optimizing it for touchscreens and mobile devices, enhancing the in-class teaching experience on Interactive Whiteboards. 
+
+
+\
+`June 2021 - May 2024`
 **Software Developer** @ _UNOX s.p.a._
 
-UNOX is a company that specializes in the production of professional ovens. The company is a leader in the industry and offers a wide range of ovens for restaurants, gastronomy, pastry shops, bars and cafes, fast food, cooking centers, gastronomy, and supermarkets.
+UNOX is a company that specializes in the production of professional ovens. The company is a leader in the industry and offers a wide range of ovens for restaurants, gastronomy, pastry shops, bars and cafes, fast food, cooking centers and supermarkets.
 
 The company is AWS patner, and I'm part of the Digital Experience team in charge to develop and mantain all the applications and website of UNOX ecosystem.
 
@@ -84,75 +89,10 @@ My tasks right were:
 - To develop, improve and integrate an OCR document recognizer.
 
 \
-`September 2020 - December 2020`
-**Full stack developer** @ _Primo Round s.r.l._
+`March 2015 - December 2020`
+**Freelance Full Stack Developer**
 
-Here I worked on my master thesis "An Innovative Approach to NLP Chatbot Training".
-I developed a web application with Angular, Node.js (NestJS) and MongoDB that helps in generating and deploying a chatbot on the Amazon Lex platform.
-
-The following technologies were involved:
-
-- Angular 10 as Frontend SPA framework;
-- Node.js (w/TypeScript) with NestJS as Backend framework;
-- MongoDB as DBMS;
-
-During this experience I had the opportunity to try NestJS and, more importantly, to understand how a chatbots and serverless services (like AWS Lambda) work.
-
-\
-`March 2015 - September 2020`
-**Full Stack Developer** @ _Onda Selvaggia di Sonia Scaioli_
-
-Developing of a digital registration platform fo Onda Selvaggia, available at [iscrizione.ondaselvaggia.com](https://iscrizione.ondaselvaggia.com).
-
-Features:
-
-- Customer management;
-- Appointment/calendar management;
-- Tracking of hours worked by employees;
-- Android application that allows customers to register directly from the secreteriat;
-- Collection of clients feedback through self-generated satisfaction questionnaire.
-
-Technologies invoved:
-
-- Frontend: HTML5/CSS3 (boostrap 3)/Javascript (jQuery);
-- Backend: PHP/Java/NodeJS/MySQL
-
-\
-`July 2015 - October 2020`
-**Web Developer and Webmaster** @ _Rossipiero.com_
-
-Designing and development of website [rossipiero.com](http://www.rossipiero.com) using PHP+MySQL+jQuery+Bootstrap.
-Designing and development of a CRM for contacts and invoice managment using the same technologies
-
-\
-`January 2018 - August 2020`
-**Instant Developer programmer and Artificial Intelligence Researcher** @ _Tepui s.r.l._
-
-One of my task was to develop applications using the Instant Developer platform, which involved using also Microsoft SQL Server and Microsoft IIS. I was also assigned with the responsability of interact with a customer.
-
-Another task I had to do was studying and developing a scheduler (using Python) that helped in the process of allocating jobs to mechanics. The problem was essentially an instance of _FJSP_ (_Flexible Job-Shop Problem_) and was solved with a genetic algorithm.
-
-Skills acquired:
-
-- Interaction with customers;
-- Understanding of how genetic algorithms work;
-- Understanding of FJSP scheduling problem.
-
-\
-`June 2018 - October 2018`
-**Full stack developer** @ _WebPD s.r.l._
-
-I worked on my BsC thesis "Analysis, improvement and extension of the functionalities of a cruise Booking Engine", whose subject was the website [crociereregalo.it](https://www.crociereregalo.it).
-
-First of all, I had to optimize the execution time of some queries on a Microsoft SQL Server database using SQL Server profiling tools.
-Moreover, I had to integrate to an existing cruise booking engine three new webservices of cruise companies (Royal Caribbean, Celebrity, Azamara).
-In the end I also tweaked a bit the UI of the website using CSS3 and Boostrap.
-
-Tecnologies involved:
-
-- PHP with CodeIgniter;
-- HTML5/CSS3/jQuery + Boostrap;
-- Microsoft SQL Server.
+Worked on various projects including web applications, mobile apps, AI/ML solutions, and digital platforms. Key technologies used: PHP, JavaScript, Node.js, Angular, React, Java, Python, MySQL, MongoDB, AWS services. Gained experience in client interaction, database optimization, OCR systems, chatbot development, and genetic algorithms for scheduling problems.
 
 ## Education
 
