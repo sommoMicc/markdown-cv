@@ -1,11 +1,38 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
   <meta charset=utf-8 />
-  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}{% else %}CV{% endif %}</title>
+  <meta name="description" content="Michele Tagliabue — Software Engineer at Infinitas Learning. Full-stack TypeScript, React, Node.js, PostgreSQL, Terraform, Azure. MSc Computer Science, University of Padua.">
+  <meta name="keywords" content="Michele Tagliabue, Software Engineer, Full Stack Developer, TypeScript, React, Node.js, EdTech, Infinitas Learning, Padua, Italy, CV, Resume">
+  <meta name="author" content="Michele Tagliabue">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://sommomicc.github.io/markdown-cv/">
+  <meta property="og:title" content="Michele Tagliabue — Software Engineer CV">
+  <meta property="og:description" content="Full-stack TypeScript engineer building digital learning tools at Infinitas Learning. React, Node.js, PostgreSQL, Terraform, Azure.">
+  <meta property="og:type" content="profile">
+  <meta property="og:url" content="https://sommomicc.github.io/markdown-cv/">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" type="text/css" rel="stylesheet">
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Michele Tagliabue",
+    "jobTitle": "Software Engineer",
+    "worksFor": { "@type": "Organization", "name": "Infinitas Learning" },
+    "url": "https://sommomicc.github.io/markdown-cv/",
+    "sameAs": [
+      "https://github.com/sommoMicc",
+      "https://www.linkedin.com/in/michele-tagliabue-519482110"
+    ],
+    "address": { "@type": "PostalAddress", "addressLocality": "Padua", "addressCountry": "IT" },
+    "alumniOf": { "@type": "CollegeOrUniversity", "name": "University of Padua" },
+    "knowsAbout": ["TypeScript", "React", "Node.js", "PostgreSQL", "Terraform", "Azure", "EdTech", "Drizzle ORM", "Rust"]
+  }
+  </script>
 </head>
 <body>
   <div id="main">
